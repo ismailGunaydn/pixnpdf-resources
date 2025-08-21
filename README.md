@@ -67,3 +67,16 @@ PixnPDF is a comprehensive web-based platform offering free PDF and image conver
 ---
 
 **PixnPDF** - Professional PDF and Image Solutions | [Visit Platform](https://www.pixnpdf.com/)
+
+
+✅ Google Docs: https://docs.google.com/document/d/1wJE9-oILiDcQg4uFhPdKZ4tiY37ZZUzbvPaQNmS7CJ4/edit?usp=sharing
+✅ Google Sheets (3 adet):
+
+https://docs.google.com/spreadsheets/d/1p2maP4u7SU32wGYvyVZGELCZwlXczZwkJ6u0tsLE4wM/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/16Tsb4zt00MDFqXKnecdHNU11ZBl7uYp8UysG1Xj-S8A/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1kWSjQez4OkI0SqIQ7i5zFbJd-Ef3pnrEvypU8G4stig/edit?usp=sharing
+
+✅ Google Sites: https://sites.google.com/view/pixnpdf-tools-and-resources/ana-sayfa
+✅ Google My Maps: https://www.google.com/maps/d/u/0/edit?mid=1zUQh6eqtbPpldQuJ8poyrR3WRHzBn5o&usp=sharing
+✅ GitHub: https://github.com/ismailGunaydn/pixnpdf-resources
+✅ Product Hunt: https://www.producthunt.com/products/pixnpdf-free-pdf-image-converter
