@@ -78,5 +78,4 @@ https://docs.google.com/spreadsheets/d/1kWSjQez4OkI0SqIQ7i5zFbJd-Ef3pnrEvypU8G4s
 
 ✅ Google Sites: https://sites.google.com/view/pixnpdf-tools-and-resources/ana-sayfa
 ✅ Google My Maps: https://www.google.com/maps/d/u/0/edit?mid=1zUQh6eqtbPpldQuJ8poyrR3WRHzBn5o&usp=sharing
-✅ GitHub: https://github.com/ismailGunaydn/pixnpdf-resources
 ✅ Product Hunt: https://www.producthunt.com/products/pixnpdf-free-pdf-image-converter
